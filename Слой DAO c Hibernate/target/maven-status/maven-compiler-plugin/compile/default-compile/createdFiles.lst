@@ -1,0 +1,4 @@
+com/example/daohibernate/repository/PersonRepository.class
+com/example/daohibernate/DaoHibernateApplication.class
+com/example/daohibernate/controller/PersonController.class
+com/example/daohibernate/entity/Person.class
